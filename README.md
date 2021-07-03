@@ -1,0 +1,2 @@
+# Newsly
+read latest news
